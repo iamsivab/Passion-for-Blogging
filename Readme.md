@@ -7,7 +7,7 @@
 
  [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
  
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2FPassion-for-Blogging)
+[![HitCount](http://hits.dwyl.com/iamsivab/Passion-for-Blogging.svg)](http://hits.dwyl.com/iamsivab/Passion-for-Blogging)
 
 ### I get questions by email, occasionally. This way anyone can read the answer!
 
